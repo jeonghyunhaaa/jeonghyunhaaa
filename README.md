@@ -1,16 +1,30 @@
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
 
-<!--
-**jeonghyunhaaa/jeonghyunhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**bold** <br>
+*italic* <br>
+~~strikethough~~ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 1번
+* 2번
+- 1번
+- 2번
+
+[네이버](https://naver.com)
+
+```
+
+printf("ㅋㅋㅋ");
+System.out.writeline();
+
+```
+
+- [x] 체크박스 1
+- [ ] 체크박스 2
+
+:joy:
