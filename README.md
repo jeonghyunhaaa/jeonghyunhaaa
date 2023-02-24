@@ -1,10 +1,11 @@
 
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">:hammer: Tools :hammer:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
