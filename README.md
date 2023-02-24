@@ -1,45 +1,26 @@
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeonghyunhaaa)](https://github.com/jeonghyunhaaa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyunhaaa)](https://github.com/jeonghyunhaaa/github-readme-stats)
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyunhaaa&layout=compact)](https://github.com/jeonghyunhaaa/github-readme-stats)
+<br>
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://doops-note.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://doops-note.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/ha.d00p/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ha.d00p/"/></a>&nbsp
+  <a href="mailto:jennyjhh1225@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennyjhh12250@gmail.com"/></a>
+</p>
 
----
+<br>
 
-**bold** <br>
-*italic* <br>
-~~strikethough~~ <br>
 
-* 1번
-* 2번
-- 1번
-- 2번
+<h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
+<div align="center">
 
-[네이버](https://naver.com)
+[![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghyunhaaa&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=algolia)](https://github.com/jeonghyunhaaa/github-readme-stats)
 
-```
-
-printf("ㅋㅋㅋ");
-System.out.writeline();
-
-```
-
-- [x] 체크박스 1
-- [ ] 체크박스 2
-
-:joy:
